@@ -109,7 +109,7 @@
    sudo apt install fonts-lato
 3. Directorio de la herramienta:
    ```bash
-   cd StegAnalyzer
+   cd StegAnalyzer-Pro
 4. Dale permisos de ejecución:
    ```bash
    sudo chmod +x StegAnalyzer.py
